@@ -1,1 +1,1 @@
-# wc_prediction_app
+# multi_page_dashboard
